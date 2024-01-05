@@ -1,0 +1,2 @@
+,lr,num_layers,hidden_size,dropout,l2,train,train_std,valid,valid_std,test,test_std
+gcn,0.01,2,128,0.0,5e-07,55.9168,0.2672,53.5446,0.2547,54.4473,0.2311
